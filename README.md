@@ -1,4 +1,4 @@
-# Passenger-Detection-and-Pose-Recognition-using-Deep-Neural-Networks
+# Passenger-Action-Recognition
 # About us
 
 # Table of Contents
