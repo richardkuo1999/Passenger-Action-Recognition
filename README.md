@@ -8,16 +8,16 @@
 
 # Table of Contents
 
-[Background](Background)
-[Install](Install)
-[Usage](Usage)
-[Generator](Generator)
-[Badge](Badge)
-[Example Readmes](Example Readmes)
-[Related Efforts](Related Efforts)
-[Maintainers](Maintainers)
-[Contributing](Contributing)
-[License](License)
+[Background]
+[Install]
+[Usage]
+[Generator]
+[Badge]
+[Example Readmes]
+[Related Efforts]
+[Maintainers]
+[Contributing]
+[License]
 
 # Background
 
