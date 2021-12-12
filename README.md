@@ -13,7 +13,7 @@
 - [Usage](#usage)
 	- [Environment](#environment)
 	- [Dataset](#dataset)
-	- [How to use](#how to use)
+	- [How_to_use](#how_to_use)
 - [Related Efforts](#related-efforts)
 - [Maintainers](#maintainers)
 - [Contributing](#contributing)
@@ -26,7 +26,7 @@
 # Usage
 ### Environment
 ### Dataset
-### How to use
+### How_to_use
 # Related Efforts
 
 
