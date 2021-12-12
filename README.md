@@ -8,7 +8,7 @@
 
 # Table of Contents
 
-[Background]
+(Background)
 [Install]
 [Usage]
 [Generator]
