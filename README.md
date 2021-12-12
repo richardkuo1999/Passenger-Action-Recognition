@@ -11,7 +11,7 @@
 - [Introduction](#introduction)
 - [Install](#install)
 - [Usage](#usage)
-	- Ｅnvironment(#environment)
+	- Environment(#environment)
 	- Dataset(#dataset)
 	- How to use(#how to use)
 - [Related Efforts](#related-efforts)
@@ -23,9 +23,9 @@
 
 
 ## Usage
-	# Environment
-	# Dataset
-	# How to use
+# Environment
+# Dataset
+# How to use
 # Related Efforts
 
 
