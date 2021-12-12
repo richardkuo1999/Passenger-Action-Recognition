@@ -6,35 +6,35 @@
 
 [Robot Vision Lab](https://vision.ee.ccu.edu.tw/index.php)
 
-# Table of Contents
+## Table of Contents
 
-(Background)
-[Install]
-[Usage]
-[Generator]
-[Badge]
-[Example Readmes]
-[Related Efforts]
-[Maintainers]
-[Contributing]
-[License]
+- [Background](#background)
+- [Install](#install)
+- [Usage](#usage)
+	- [Generator](#generator)
+- [Badge](#badge)
+- [Example Readmes](#example-readmes)
+- [Related Efforts](#related-efforts)
+- [Maintainers](#maintainers)
+- [Contributing](#contributing)
+- [License](#license)
 
-# Background
-
-
-# Install
+## Background
 
 
-# Usage
+## Install
 
 
-# Generator
+## Usage
 
 
-# Badge
+## Generator
 
 
-# Example Readmes
+## Badge
+
+
+## Example Readmes
 
 
 # Related Efforts
