@@ -28,8 +28,7 @@ coming soon
 
 
 # Maintainers
-
-
+[@richardkuo1999](https://github.com/Richardkuo1999).
 # Contributing
 
 
