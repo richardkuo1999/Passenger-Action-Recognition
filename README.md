@@ -18,15 +18,15 @@ Through action recognition, we can know what behavior the person in the image.
 
 This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks)](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22108CCU00442053%22.&searchmode=basic) proposes a action recognize method based on deep learning combined with human detector to implement a action recognition system for passengers in public transportation vehicles, and proposes an architecture for passenger counting. 
 
-We set up two cameras in the environment and use 2D and 3D CNN to recognize static poses and dynamic actions. 
+1.We set up two cameras in the environment and use 2D and 3D CNN to recognize static poses and dynamic actions. 
 
-The purpose of posture recognition is to recognize postures that do not need to consider time information, such as dangerous behavior. 
+>posture recognition(2D CNN) is to recognize postures that do not need to consider time information. 
 
-And the purpose of action recognition is to recognize the continuous motion of passengers, such as fall detection. 
+>action recognition(3D CNN) is to recognize the continuous motion of passengers. 
 
-In order to understand the number of passengers in the environment and prevent too many passengers on the vehicle, we use two cameras to count passengers that based on the detection results of detector and association method. 
+2.In order to understand the number of passengers in the environment, we use two cameras to count passengers that based on the detection results of detector and association method. 
 
-To achieve the goal, we built a neural network to solve the double counting problem caused by the same person appearing on two cameras.
+3.To achieve the goal, we built a neural network to solve the double counting problem caused by the same person appearing on two cameras.
 
 
 # Usage
