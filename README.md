@@ -18,15 +18,15 @@ Through action recognition, we can know what behavior the person in the image.
 
 This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks)](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22108CCU00442053%22.&searchmode=basic) proposes a action recognize method based on deep learning combined with human detector to implement a action recognition system for passengers in public transportation vehicles, and proposes an architecture for passenger counting. 
 
-1.We set up two cameras in the environment and use 2D and 3D CNN to recognize static poses and dynamic actions. 
+1. We set up two cameras in the environment and use 2D and 3D CNN to recognize static poses and dynamic actions. 
 
 >Posture recognition(2D CNN) : recognize postures that do not need to consider time information. 
 
 >Action recognition(3D CNN) : recognize the continuous motion of passengers. 
 
-2.In order to understand the number of passengers in the environment, we use two cameras to count passengers that based on the detection results of detector and association method. 
+2. In order to understand the number of passengers in the environment, we use two cameras to count passengers that based on the detection results of detector and association method. 
 
-3.To achieve the goal, we built a neural network to solve the double counting problem caused by the same person appearing on two cameras.
+3. To achieve the goal, we built a neural network to solve the double counting problem caused by the same person appearing on two cameras.
 
 
 # Usage
@@ -37,15 +37,15 @@ coming soon
 ### How_to_use
 coming soon
 # Related Efforts
-1.[People Detection and Pose Classification Inside a Moving Train Using Computer Vision](https://core.ac.uk/download/pdf/288501396.pdf)
+1. [People Detection and Pose Classification Inside a Moving Train Using Computer Vision](https://core.ac.uk/download/pdf/288501396.pdf)
 
-2.[Human activity monitoring for falling detection. A realistic framework](https://ieeexplore.ieee.org/document/7743617)
+2. [Human activity monitoring for falling detection. A realistic framework](https://ieeexplore.ieee.org/document/7743617)
 
-3.[Dual Viewpoint Passenger State Classification Using 3D CNNs](https://ieeexplore.ieee.org/document/8500564)
+3. [Dual Viewpoint Passenger State Classification Using 3D CNNs](https://ieeexplore.ieee.org/document/8500564)
 
-4.[DeepPose: Human Pose Estimation via Deep Neural Networks](https://ieeexplore.ieee.org/document/6909610)
+4. [DeepPose: Human Pose Estimation via Deep Neural Networks](https://ieeexplore.ieee.org/document/6909610)
 
-5.[Human Pose Estimation Using Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8701267)
+5. [Human Pose Estimation Using Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8701267)
 # Maintainers
 [@richardkuo1999](https://github.com/Richardkuo1999)
 
