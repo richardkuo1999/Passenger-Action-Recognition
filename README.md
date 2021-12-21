@@ -1,8 +1,8 @@
 # Passenger-Action-Recognition
 # About us
-122 Robot Vision Lab Department of Electrical Engineering National Chung Cheng University Chiayi 621, Taiwan
-
 [![Robot Vision Lab](https://img.shields.io/badge/Robot%20Vision-Lab-brightgreen.svg?style=flat-square)](https://vision.ee.ccu.edu.tw/index.php)
+[![Department of Electrical Engineering](https://img.shields.io/badge/Department%20of-Electrical_Engineering-blue.svg?style=flat-square)](http://www.ee.ccu.edu.tw/main.php)
+[![National Chung Cheng University](https://img.shields.io/badge/National%20-Chung_Cheng_University-blue.svg?style=flat-square)](https://www.ccu.edu.tw/eng/index.php)
 
 # Table of Contents
 - [Abstract](#Abstract)
@@ -20,9 +20,9 @@ This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks
 
 1.We set up two cameras in the environment and use 2D and 3D CNN to recognize static poses and dynamic actions. 
 
->posture recognition(2D CNN) is to recognize postures that do not need to consider time information. 
+>Posture recognition(2D CNN) : recognize postures that do not need to consider time information. 
 
->action recognition(3D CNN) is to recognize the continuous motion of passengers. 
+>Action recognition(3D CNN) : recognize the continuous motion of passengers. 
 
 2.In order to understand the number of passengers in the environment, we use two cameras to count passengers that based on the detection results of detector and association method. 
 
