@@ -20,9 +20,9 @@ This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks
 
 1. We set up two cameras in the environment and use 2D and 3D CNN to recognize static poses and dynamic actions. 
 
-	- Posture recognition(2D CNN) : recognize postures that do not need to consider time information. 
+	- Posture Recognition (2D CNN) : Recognize postures that do not need to consider time information. 
 
-	- Action recognition(3D CNN) : recognize the continuous motion of passengers. 
+	- Action Recognition (3D CNN) : Recognize the continuous motion of passengers. 
 
 2. In order to understand the number of passengers in the environment, we use two cameras to count passengers that based on the detection results of detector and association method. 
 
