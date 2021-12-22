@@ -37,9 +37,9 @@ coming soon
 ### How_to_use
 coming soon
 # Related Efforts
-1. [People Detection and Pose Classification Inside a Moving Train Using Computer Vision](https://core.ac.uk/download/pdf/288501396.pdf)：Histogram of Oriented Gradients (HOG) ＋ Support Vector Machines
+1. [People Detection and Pose Classification Inside a Moving Train Using Computer Vision](https://core.ac.uk/download/pdf/288501396.pdf)：Histogram of Oriented Gradients (HOG) ＋ Support Vector Machines (SVM)
 
-2. [Human activity monitoring for falling detection. A realistic framework](https://ieeexplore.ieee.org/document/7743617)
+2. [Human activity monitoring for falling detection. A realistic framework](https://ieeexplore.ieee.org/document/7743617)：Histogram of Oriented Gradients (HOG) ＋ Action Bank
 
 3. [Dual Viewpoint Passenger State Classification Using 3D CNNs](https://ieeexplore.ieee.org/document/8500564)
 
