@@ -36,16 +36,12 @@ coming soon
 coming soon
 ### How_to_use
 coming soon
-# Related Efforts
+# Related Work
 1. [People Detection and Pose Classification Inside a Moving Train Using Computer Vision](https://core.ac.uk/download/pdf/288501396.pdf)
-2. 
 3. [Human activity monitoring for falling detection. A realistic framework](https://ieeexplore.ieee.org/document/7743617)
-4. 
-5. [Dual Viewpoint Passenger State Classification Using 3D CNNs](https://ieeexplore.ieee.org/document/8500564)
-
-4. [DeepPose: Human Pose Estimation via Deep Neural Networks](https://ieeexplore.ieee.org/document/6909610)
-
-5. [Human Pose Estimation Using Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8701267)
+4. [Dual Viewpoint Passenger State Classification Using 3D CNNs](https://ieeexplore.ieee.org/document/8500564)
+5. [DeepPose: Human Pose Estimation via Deep Neural Networks](https://ieeexplore.ieee.org/document/6909610)
+6. [Human Pose Estimation Using Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8701267)
 # Maintainers
 [@richardkuo1999](https://github.com/Richardkuo1999)
 
