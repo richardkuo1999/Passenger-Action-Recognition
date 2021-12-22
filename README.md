@@ -12,7 +12,6 @@
 	- [How_to_use](#how_to_use)
 - [Related Efforts](#related-efforts)
 - [Maintainers](#maintainers)
-- [License](#license)
 # Abstract
 Through action recognition, we can know what behavior the person in the image. 
 
@@ -44,5 +43,3 @@ coming soon
 6. [Human Pose Estimation Using Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8701267)
 # Maintainers
 [@richardkuo1999](https://github.com/Richardkuo1999)
-
-# License
