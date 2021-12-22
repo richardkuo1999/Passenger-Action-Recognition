@@ -12,6 +12,7 @@
 	- [How_to_use](#how_to_use)
 - [Related Efforts](#related-efforts)
 - [Maintainers](#maintainers)
+- [Contact](#contact)
 # Abstract
 Through action recognition, we can know what behavior the person in the image. 
 
@@ -43,3 +44,5 @@ coming soon
 6. [Human Pose Estimation Using Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8701267)
 # Maintainers
 [@richardkuo1999](https://github.com/Richardkuo1999)
+# Contact
+For Passenger-Action-Recognition bugs and feature requests please visit [GitHub Issues](https://github.com/richardkuo1999/Passenger-Action-Recognition/issues). For business inquiries or professional support requests please visit https://vision.ee.ccu.edu.tw/index.php.
