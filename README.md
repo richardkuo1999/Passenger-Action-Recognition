@@ -64,11 +64,9 @@ There is still more to come.
 |2  |0.8131  |0.1921  |0.3746  |0.3829  |0.2507  |0.1368  |0.2751  |0.2724
 </details>
 
-
 <details open>
 <summary>How_to_use</summary>
 </details>
-	
 	
 <details open>
 <summary>Results</summary>
@@ -95,10 +93,7 @@ There is still more to come.
 
 
 
-### Dataset
-### How_to_use
-### Results
-There is still more to come.
+
 
 
 
