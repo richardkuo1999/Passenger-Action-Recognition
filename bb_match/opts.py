@@ -15,7 +15,7 @@ def parse_opts():
         help='Test data')
     parser.add_argument(
         '--resume_path',
-        default=None,
+        default = None,
         type=str,
         help='Resume data path')
     parser.add_argument(
