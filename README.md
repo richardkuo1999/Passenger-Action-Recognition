@@ -8,9 +8,7 @@
 - [Abstract](#abstract)
 - [Usage](#usage)
 	- [Environment](#environment)
-	- [Dataset](#dataset)
-	- [How_to_use](#how_to_use)
-	- [Results](#results)
+	- [bb_match](#bb_match)
 - [Related_Work](#related-work)
 - [Maintainers](#maintainers)
 - [Contact](#contact)
@@ -31,14 +29,28 @@ This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks
 
 3. To achieve the goal, we built a neural network to solve the double counting problem caused by the same person appearing on two cameras.
 
-# Usage
-### Environment
-There is still more to come.
-### Dataset
 
+
+
+
+
+
+# Usage
+
+### Environment
+<details open>
+<summary>Environment</summary>
+There is still more to come.
+</details>
+
+
+### bb_match
 <details open>
 <summary>bb_match</summary>
-	
+
+<details open>
+<summary>Dataset</summary>
+
 - For bounding box predict
 - train and test data example
 - train and test data file put in the File folder of dataset
@@ -50,24 +62,16 @@ There is still more to come.
 |1  |0.5065  |0.1082  |0.1919  |0.2151  |0.5268  |0.2086  |0.3103  |0.4158
 |1  |0.8038  |0.1964  |0.3931  |0.3914  |0.3230  |0.1368  |0.1675  |0.2724
 |2  |0.8131  |0.1921  |0.3746  |0.3829  |0.2507  |0.1368  |0.2751  |0.2724
-
-
 </details>
 
-There is still more to come.
-
-### How_to_use
 
 <details open>
-<summary>bb_match</summary>
+<summary>How_to_use</summary>
 </details>
-
-There is still more to come.
-
-### Results
-
+	
+	
 <details open>
-<summary>bb_match</summary>
+<summary>Results</summary>
 	
 - Results data example
 - Results data file put in the File folder of results
@@ -79,10 +83,32 @@ There is still more to come.
 |2	|0.0031       |0.6036       |0.9990       |0.9859       |0.8289       |0.7852       |0.082743
 |3	|0.0026       |0.6112       |0.9993       |0.9888       |0.8201       |0.7771       |0.0707708
 |4	|0.0024       |0.6390       |0.9993       |0.9911       |0.8628       |0.7988       |0.0571157
+</details>
+	
 	
 </details>
 
+
+
+
+
+
+
+
+### Dataset
+### How_to_use
+### Results
 There is still more to come.
+
+
+
+
+
+
+
+
+
+
 
 # Related Work
 1. [People Detection and Pose Classification Inside a Moving Train Using Computer Vision](https://core.ac.uk/download/pdf/288501396.pdf)
@@ -90,7 +116,12 @@ There is still more to come.
 4. [Dual Viewpoint Passenger State Classification Using 3D CNNs](https://ieeexplore.ieee.org/document/8500564)
 5. [DeepPose: Human Pose Estimation via Deep Neural Networks](https://ieeexplore.ieee.org/document/6909610)
 6. [Human Pose Estimation Using Convolutional Neural Networks](https://ieeexplore.ieee.org/document/8701267)
+
+
 # Maintainers
 [@richardkuo1999](https://github.com/Richardkuo1999)
+
+
+
 # Contact
 For Passenger-Action-Recognition bugs and feature requests please visit [GitHub Issues](https://github.com/richardkuo1999/Passenger-Action-Recognition/issues). For business inquiries or professional support requests please visit https://vision.ee.ccu.edu.tw/index.php.
