@@ -1,0 +1,3 @@
+run training & testing:
+1. python pattern_match_v5.py --train_path winbus_train.txt --n_epochs 10000 --batch_size 256 --lr 0.1 --lr_patience 500 --no_val
+2. test result is generated in 'result.txt'
