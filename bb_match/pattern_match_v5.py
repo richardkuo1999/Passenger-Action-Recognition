@@ -60,7 +60,7 @@ def train(epoch, criterion):
     print('ratio iou: ', numiou1/numdata, numiou2/numdata, numiou3/numdata)
     return train_loss, meaniou.item()/nb, numiou1/numdata, numiou2/numdata, numiou3/numdata
 
-def bbox_iou(box1, box2): # ([x1,y1,w1,h1].t(), [x2,y2,w2,h2])
+def bbox_iou(box1, box2): # ([x1,y1,w1,h1].t(), [x2,y2,w2,h2]) 
     # Returns the IoU of box1 to box2. box1 is 4, box2 is nx4
     box2 = box2.t()
     b1_x1, b1_x2 = box1[0] - box1[2] / 2, box1[0] + box1[2] / 2
