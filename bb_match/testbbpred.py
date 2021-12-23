@@ -54,7 +54,7 @@ box1 = torch.tensor([[0.8389,0.2056,0.3229,0.4099],
 box2 = torch.tensor([[0.1849,0.1385,0.2936,0.2757],
                      [0.4865,0.2217,0.2408,0.4421]]).to(device).float()
 
-#box3 = torch.tensor([[0.5109,0.1072,0.1705,0.2132]]).to(device).float()
+#box3 = torch.tensor([[0.5109,0.1072,0.1705,0.2132]]).to(device).float() 
 #box4 = torch.tensor([[0.4865,0.2217,0.2408,0.4421]]).to(device).float()
 
 output = net(box1)
