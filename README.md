@@ -5,7 +5,7 @@
 [![National Chung Cheng University](https://img.shields.io/badge/National%20-Chung_Cheng_University-blue.svg?style=flat-square)](https://www.ccu.edu.tw/eng/index.php)
 
 # Table of Contents
-- [Abstract](#Abstract)
+- [Abstract](#abstract)
 - [Usage](#usage)
 	- [Environment](#environment)
 	- [Dataset](#dataset)
@@ -13,7 +13,9 @@
 - [Related_Work](#related-work)
 - [Maintainers](#maintainers)
 - [Contact](#contact)
+
 # Abstract
+	
 Through action recognition, we can know what behavior the person in the image. 
 
 This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks)](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22108CCU00442053%22.&searchmode=basic) proposes a action recognize method based on deep learning combined with human detector to implement a action recognition system for passengers in public transportation vehicles, and proposes an architecture for passenger counting. 
@@ -27,7 +29,6 @@ This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks
 2. In order to understand the number of passengers in the environment, we use two cameras to count passengers that based on the detection results of detector and association method. 
 
 3. To achieve the goal, we built a neural network to solve the double counting problem caused by the same person appearing on two cameras.
-
 
 # Usage
 ### Environment
