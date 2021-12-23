@@ -38,67 +38,11 @@ This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks
 # Usage
 
 ### Environment
-<details open>
-<summary>Environment</summary>
-There is still more to come.
-</details>
-
 
 ### bb_match
-<details open>
-<summary>bb_match</summary>
 
-<details open>
-<summary>Dataset</summary>
-
-- For bounding box predict
-- train and test data example
-- train and test data file put in the File folder of dataset
-	
-|Image Number |x center (YOLO Format) |y center (YOLO Format) |weight (YOLO Format) |height (YOLO Format) |x center (YOLO Format) |y center (YOLO Format) |weight (YOLO Format) |height (YOLO Format)
-|---                    |---  |---    |---    |---    |---    |---    |---    |---
-|0  |0.4983  |0.1089  |0.1934  |0.2164  |0.5142  |0.2112  |0.2892  |0.4178
-|0  |0.8253  |0.2092  |0.3502  |0.4171  |0.3169  |0.1115  |0.1982  |0.2217
-|1  |0.5065  |0.1082  |0.1919  |0.2151  |0.5268  |0.2086  |0.3103  |0.4158
-|1  |0.8038  |0.1964  |0.3931  |0.3914  |0.3230  |0.1368  |0.1675  |0.2724
-|2  |0.8131  |0.1921  |0.3746  |0.3829  |0.2507  |0.1368  |0.2751  |0.2724
-</details>
-
-<details open>
-<summary>How_to_use</summary>
-</details>
-	
-<details open>
-<summary>Results</summary>
-	
-- Results data example
-- Results data file put in the File folder of results
-	
-|epoch   |val loss |mean iou |iou > 0.1 |iou > 0.3 |iou > 0.5 |train iou > 0.5 |lr 
-|---                    |---  |---    |---    |---    |---    |---    |---    
-|0	|0.0036       |0.5855       |0.9990       |0.9852       |0.7490       |0.6150       |0.0979746
-|1	|0.0029       |0.5822       |0.9993       |0.9836       |0.7349       |0.7392       |0.0920627
-|2	|0.0031       |0.6036       |0.9990       |0.9859       |0.8289       |0.7852       |0.082743
-|3	|0.0026       |0.6112       |0.9993       |0.9888       |0.8201       |0.7771       |0.0707708
-|4	|0.0024       |0.6390       |0.9993       |0.9911       |0.8628       |0.7988       |0.0571157
-</details>
 	
 	
-</details>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
