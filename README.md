@@ -7,8 +7,6 @@
 # Table of Contents
 - [Abstract](#abstract)
 - [Usage](#usage)
-	- [Environment](#environment)
-	- [bb_match](#bb_match)
 - [Related_Work](#related-work)
 - [Maintainers](#maintainers)
 - [Contact](#contact)
@@ -39,7 +37,7 @@ This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks
 
 ### Environment
 	coming soon
-* [bb_match(bounding box predict)](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/bb_match-(bounding-box-predict))
+* [bb_match (bounding box predict)](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/bb_match-(bounding-box-predict))
 	
 	
 
