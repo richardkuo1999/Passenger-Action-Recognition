@@ -7,8 +7,8 @@
 # Table of Contents
 - [Abstract](#abstract)
 - [Usage](#usage)
-	[Environment](#environment)
-	[How_to_use](#how_to_use)
+	- [Environment](#environment)
+	- [How_to_use](#how_to_use)
 - [Related_Work](#related-work)
 - [Maintainers](#maintainers)
 - [Contact](#contact)
