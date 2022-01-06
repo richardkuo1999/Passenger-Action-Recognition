@@ -41,7 +41,12 @@ This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks
 	coming soon
 ### How_to_use
 * [bb_match (bounding box predict)](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/bb_match-(bounding-box-predict))
-	
+* 
+* [pose_classification (preparing)](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/pose_classification)
+
+* [action_classification (preparing)](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/action_classification)
+
+* [action_detection (preparing)](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/action_detection)	
 	
 
 
