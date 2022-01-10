@@ -1,0 +1,4 @@
+1 sitting
+2 standing
+3 sit
+4 stand
