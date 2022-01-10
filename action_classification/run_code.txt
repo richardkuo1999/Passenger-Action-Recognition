@@ -1,0 +1,15 @@
+1. Ggenerate n_frames files(Generate an n_frame for each 12 frame folder)
+  python utils/n_frames_ucf101_hmdb51.py
+2. Generate json files(Generate json file for train test TXT)
+  python utils/ucf101_json.py
+
+3. Training in Winbus dataset
+  R(2+1)d:
+  train:
+   python main4winbus_train.py
+  test:
+   python main4winbus_test.py
+
+
+
+

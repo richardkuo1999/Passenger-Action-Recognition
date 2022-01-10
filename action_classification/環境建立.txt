@@ -1,0 +1,8 @@
+顯卡驅動版本: nvidia graphic driver > 441
+CUDA相關: 安裝cuda10(>10), cudnn(需要查詢cuda版本對應到的版本)
+PYTORCH: https://pytorch.org/
+	1. version: stable
+	2.選擇對應的cuda版本
+	3.選擇完其他選項後指令安裝pytorch
+GIT: conda install -c anaconda git
+APEX: conda install -c conda-forge nvidia-apex
