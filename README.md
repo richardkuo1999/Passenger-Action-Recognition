@@ -43,7 +43,7 @@ This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks
 	
 ### Effect
 - bb_match : Using camera1 bounding box information to predict camera2 bounding box place.
-- pose_classification : 
+- pose_classification : Using a multiframe approach to classify movements for temporal movements, we have four categories: sitting, standing up, sitting and standing.
 - action_classification : 
 - action_detection : 
 
