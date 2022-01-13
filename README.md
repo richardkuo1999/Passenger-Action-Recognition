@@ -8,6 +8,7 @@
 - [Abstract](#abstract)
 - [Usage](#usage)
 	- [Environment](#environment)
+	- [Effect](#effect)
 	- [How_to_use](#how_to_use)
 - [Related_Work](#related-work)
 - [Maintainers](#maintainers)
@@ -39,8 +40,16 @@ This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks
 
 ### Environment
 	coming soon
+	
+### Effect
+- bb_match : Using camera1 bounding box information to predict camera2 bounding box place.
+- pose_classification : 
+- action_classification : 
+- action_detection : 
+
 ### How_to_use
-* [bb_match (bounding box predict)](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/bb_match-(bounding-box-predict))
+
+* [bb_match (bounding box predict)](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/bb_match-(bounding-box-predict)) 
 
 * [pose_classification (preparing)](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/pose_classification)
 
