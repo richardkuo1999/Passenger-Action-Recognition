@@ -142,7 +142,7 @@ parser.add_argument( '--video_path',default='datasets/testdata/winbus-06-2RoHf',
                     type=str, help='Directory path of Videos')
 parser.add_argument( '--annotation_path',default='data/winbusTest-06/winbus_06-2-3-4_test2times.json',
                     type=str, help='Annotation file path')
-parser.add_argument( '--result_path',default='results/train_results_06',
+parser.add_argument( '--result_path',default='results',
                     type=str, help='Result directory path')
 parser.add_argument( '--dataset',default='ucf101',
                     type=str, help='Used dataset (activitynet | kinetics | ucf101 | hmdb51)')
