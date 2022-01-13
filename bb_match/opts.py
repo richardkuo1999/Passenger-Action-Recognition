@@ -20,7 +20,7 @@ def parse_opts():
         help='Resume data path')
     parser.add_argument(
         '--n_epochs',
-        default=10,
+        default=30,
         type=int,
         help='Train eopchs')
     parser.add_argument(
