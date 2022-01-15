@@ -1,0 +1,4 @@
+train and test:
+python train.py
+test action det:
+python detect.py
