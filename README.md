@@ -42,7 +42,7 @@ This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks
 	
 ### How_to_use
 - [bb_match](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/bb_match)  : Using camera1 bounding box information to predict camera2 bounding box place.
-- [pose_classification](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/pose_classification) : Using a single-frame approach to classify movements for temporal movements, we have four categories:  seated and standed.
+- [pose_classification](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/pose_classification) : Using a single-frame approach to classify movements for temporal movements, we have two categories:  seated and standed.
 - [action_classification](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/action_classification) : Using a multi-frame approach to classify movements for temporal movements, we have four categories: sitting, standing up, seated and standed.
 -  [action_detection](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/action_detection)	 : 
 
