@@ -44,7 +44,7 @@ pytorch=1.6.0
 numpy=1.19
 opencv=3.4.2
 ```
-use this to create environments
+Use this to create environments
 refer to [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#id2)
 ```
 conda env create -f /path/to/environment.yml
