@@ -38,7 +38,17 @@ This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks
 # Usage
 
 ### Environment
-	coming soon
+```
+python=3.7
+pytorch=1.6.0
+numpy=1.19
+opencv=3.4.2
+```
+use this to create environments
+refer to [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#id2)
+```
+conda env create -f /path/to/environment.yml
+```
 	
 ### How_to_use
 - [bb_match](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/bb_match)  : Using camera1 bounding box information to predict camera2 bounding box place.
