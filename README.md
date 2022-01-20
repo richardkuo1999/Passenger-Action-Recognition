@@ -43,6 +43,8 @@ python=3.7
 pytorch=1.6.0
 numpy=1.19
 opencv=3.4.2
+CUDA 10.0
+cuDNN 7.4.1 
 ```
 Use this to create environments
 refer to [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#id2)
