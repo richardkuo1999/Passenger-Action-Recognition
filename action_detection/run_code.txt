@@ -1,0 +1,6 @@
+run action detection:
+1. input image size 1280*720
+2. python detect.py
+3. the detection result is in the 'detres' folder, 
+
+4. Rating Accuracy run 'compute_mAP.py'
