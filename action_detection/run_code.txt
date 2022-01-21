@@ -1,4 +1,0 @@
-run action detection:
-1. input image size 1280*720
-2. python detect.py
-3. the detection result is in the 'detres' folder, Enter(cd computeMap) 'computeMap', and run 'compute_mAP.py'
