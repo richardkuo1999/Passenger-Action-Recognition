@@ -49,7 +49,7 @@ cuDNN 7.4.1
 Use this to create environments
 refer to [here](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#id2)
 ```
-conda env create -f /path/to/environment.yml
+conda env create -f environment.yml
 ```
 	
 ### How_to_use
