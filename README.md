@@ -67,7 +67,7 @@ bb_match dataset : Using [minbus](https://vision.ee.ccu.edu.tw/bus/WinBus.rar).
 
 action_classification dataset : Using [4 class action detection](https://vision.ee.ccu.edu.tw/bus/4class.rar).
 
-action_detection dataset : Using pose_classification Dataset and pose_classification Dataset.
+action_detection dataset : Using pose_classification Dataset and action_classification Dataset.
 
 # Related Work
 1. [People Detection and Pose Classification Inside a Moving Train Using Computer Vision](https://core.ac.uk/download/pdf/288501396.pdf)
