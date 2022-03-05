@@ -18,7 +18,7 @@
 	
 Through action recognition, we can know what behavior the person in the image. 
 
-This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks)](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22108CCU00442053%22.&searchmode=basic) proposes a action recognize method based on deep learning combined with human detector to implement a action recognition system for passengers in public transportation vehicles, and proposes an architecture for passenger counting. 
+This paper [(Passenger Detection and Pose Recognition using Deep Neural Networks)](https://ieeexplore.ieee.org/document/9575797) proposes a action recognize method based on deep learning combined with human detector to implement a action recognition system for passengers in public transportation vehicles, and proposes an architecture for passenger counting. 
 
 1. We set up two cameras in the environment and use 2D and 3D CNN to recognize static poses and dynamic actions. 
 
