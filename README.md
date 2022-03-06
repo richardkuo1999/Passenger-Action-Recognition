@@ -65,7 +65,7 @@ pose_classification dataset : Using [minbus](https://vision.ee.ccu.edu.tw/bus/Wi
 
 bb_match dataset : Using [minbus](https://vision.ee.ccu.edu.tw/bus/WinBus.rar).
 
-action_classification dataset : Using [4 class action detection](https://vision.ee.ccu.edu.tw/bus/4class.rar).
+action_classification dataset : Using [action_frames](https://vision.ee.ccu.edu.tw/bus/action_frames.rar).
 
 action_detection dataset : Using [pose_classification Dataset ](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/pose_classification) and [action_classification Dataset](https://github.com/richardkuo1999/Passenger-Action-Recognition/wiki/action_classification).
 
